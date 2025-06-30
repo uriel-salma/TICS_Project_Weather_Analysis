@@ -1,5 +1,7 @@
 # TICS_Project_Weather_Analysis
-In this repository I explain the motivation of this weather analysis  using different open databases from universities, research centers, etc. in Mexico.
+In this repository I explain the motivation of weather analysis using different open databases from universities, research centers, etc. in Mexico.
+Clime prediction is one of the most antique "physics/engineering" problems ever, because, from his conception, is practicaly impossible to solve. However, it is possible to approach a local prediction. 
+In this project we try to make local predictions of clime evolution using real time data (Temperature, Wind Velocity, Pressure, Humidity) using [bibliography].
 
 
 ## Objectives.
@@ -13,4 +15,6 @@ For this we use a python script to collect and analyze databases everyday, stora
 + Data bases management.
 + Data interpretation.
 
-## 
+## Development
+
+Coming Soon
