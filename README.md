@@ -9,6 +9,7 @@ Weather analysis is key to predicting meteorological phenomena and understanding
 
 For this we use a python script to collect and analyze databases everyday, storaging, handling, and implementing prediction models using machine learning support. The script will show different plotting configurations with information of interest for the analysis.
 
+
 ## Expected Skills
 + Bash use (scripts, automatization, data consulting, etc.)
 + Python (Connection with a server an data management).
@@ -16,5 +17,8 @@ For this we use a python script to collect and analyze databases everyday, stora
 + Data interpretation.
 
 ## Development
+
+### Predictive models
+### Databases 
 
 Coming Soon
